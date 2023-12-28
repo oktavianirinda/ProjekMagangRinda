@@ -1,2 +1,2 @@
 # ProjekMagangRinda
-ini hanya latihan repository yang sewaktu-waktu bisa ilang...
+ini hanya latihan repository yang sewaktu-waktu bisa ilang
